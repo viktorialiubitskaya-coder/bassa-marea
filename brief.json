@@ -1,0 +1,298 @@
+{
+  "lead": {
+    "name": "Bassa Marea",
+    "vertical": "restaurant",
+    "address": "V. Ludovico Fabiani, 20, 87023 Diamante CS, Italy",
+    "phone": "346 575 9777",
+    "website": "",
+    "google_url": "https://maps.google.com/?cid=8408095506887093606",
+    "lat": null,
+    "lng": null,
+    "hours": [
+      "Monday: 12:30 – 2:30 PM",
+      "Tuesday: 12:30 – 2:30 PM",
+      "Wednesday: 12:30 – 2:30 PM",
+      "Thursday: 12:30 – 2:30 PM",
+      "Friday: 12:30 – 2:20 PM, 7:00 – 10:00 PM",
+      "Saturday: 12:30 – 2:30 PM, 7:00 – 10:00 PM",
+      "Sunday: 12:30 – 2:30 PM, 7:30 – 10:00 PM"
+    ],
+    "price_level": 0,
+    "city": "Diamante"
+  },
+  "social": {
+    "website": null,
+    "instagram": null,
+    "facebook": null,
+    "tripadvisor": null,
+    "thefork": null,
+    "ig_followers": null
+  },
+  "reviews": {
+    "rating": 4.4,
+    "count": 141,
+    "ta_rating": null,
+    "ta_count": null,
+    "summary": null,
+    "strengths": [],
+    "weaknesses": [],
+    "vibe": null,
+    "signature": [],
+    "highlights": [
+      {
+        "source": "google",
+        "rating": 5,
+        "text": "Thank you for the great lunch today! We loved the view, the food was delicious and the service on point!\nBests\nEdelweiß Bike Travel",
+        "author": null
+      },
+      {
+        "source": "google",
+        "rating": 5,
+        "text": "Great food in a perfect location. Staff were extra friendly and helpful. Highly recommend the Scirocco panino",
+        "author": null
+      },
+      {
+        "source": "google",
+        "rating": 5,
+        "text": "The scirocco sandwich is the best sandwich I have ever eaten the sauce the  shrimp and the  bacon was so good.  Even though half the sandwich was lettuce, it's healthy, delicious, and wayyyyyyyy better than any sandwich I will ever eat. Trust me please go visit it",
+        "author": null
+      }
+    ]
+  },
+  "menu": [
+    {
+      "category": "Antipasti",
+      "items": [
+        {"name": "Raganella di alici (piatto della tradizione)", "price": 5},
+        {"name": "Parmigiana di melanzane", "price": 6}
+      ]
+    },
+    {
+      "category": "Panini",
+      "items": [
+        {"name": "Scirocco*", "desc": "Gamberi, pancetta croccante, chips di patate, misticanza e maionese", "price": 12},
+        {"name": "Libeccio**", "desc": "Pesce spada alla pistra, stick di verdure fritte (patate, carote, zucchine) maionese all'aglio", "price": 12},
+        {"name": "Maestrale**", "desc": "Cotoletta di merluzzo, iceberg, pomodori di belmonte, chips di patate e maionese al basilico", "price": 12},
+        {"name": "Panini special Bassa Marea*", "desc": "Panino al nero di seppia, burger di seppia, scarola ripassata con capperi e olive, pomodorini confit e maionese all'aglio", "price": 12},
+        {"name": "Che polpo*", "desc": "Panino alla barbabietola, rape saltate in padella, polpo piastrato, patate fritte a fiammifero, maionese di polpo", "price": 12}
+      ]
+    },
+    {
+      "category": "Le nostre polpette",
+      "items": [
+        {"name": "Di baccalà*", "desc": "3 pz", "price": 6},
+        {"name": "Di alici*", "desc": "3 pz", "price": 5},
+        {"name": "Di melanzane*", "desc": "3 pz", "price": 5},
+        {"name": "Di carne con nduja e provola*", "desc": "3 pz", "price": 6}
+      ]
+    },
+    {
+      "category": "Primi",
+      "items": [
+        {"name": "Spaghettoni con alici, melanzane, crumble di pane saporito al finocchietto", "price": 12},
+        {"name": "Linguine al nero di seppia", "price": 15},
+        {"name": "Spaghettoni con bisque di gamberi e gamberi scottati in padella", "price": 16},
+        {"name": "Calamarata con crema di patate, lupini e cozze", "price": 16},
+        {"name": "Gnocchi con triglie e asparagi", "price": 14},
+        {"name": "Gnocchi con nduja, melanzane e pomodorino", "price": 11}
+      ]
+    },
+    {
+      "category": "Secondi",
+      "items": [
+        {"name": "Fish and chips** — Merluzzo in pastella con chips di patate e maionese al cedro", "price": 14}
+      ]
+    },
+    {
+      "category": "Contorni",
+      "items": [
+        {"name": "Insalata mista", "price": 3},
+        {"name": "Chips di patate", "price": 3},
+        {"name": "Patate fritte", "price": 3}
+      ]
+    },
+    {
+      "category": "Bibite",
+      "items": [
+        {"name": "Acqua naturale", "price": 2},
+        {"name": "Acqua naturale / Frizzante 0,5 lt", "price": 1},
+        {"name": "CocaCola", "price": 2.5},
+        {"name": "Fanta", "price": 2.5}
+      ]
+    },
+    {
+      "category": "Birre",
+      "items": [
+        {"name": "Moretti filtrata a freddo", "price": 3},
+        {"name": "Heineken", "price": 3},
+        {"name": "Beck's", "price": 3},
+        {"name": "Icnusa non filtrata", "price": 3},
+        {"name": "Nastro azzurro", "price": 2.5}
+      ]
+    },
+    {
+      "category": "Vini bianchi",
+      "items": [
+        {"name": "Librandi Critone", "price": 20},
+        {"name": "Pecorello Ippolito", "price": 20},
+        {"name": "Cirò 'Mare Chiaro' Ippolito", "price": 18},
+        {"name": "Cirò Librandi", "price": 15}
+      ]
+    },
+    {
+      "category": "Vini rosati",
+      "items": [
+        {"name": "Terre Lontane Librandi", "price": 20},
+        {"name": "Pesca Nera Ippolito", "price": 20}
+      ]
+    },
+    {
+      "category": "Vini rossi",
+      "items": [
+        {"name": "Peperosso Spadafora", "price": 14},
+        {"name": "Principe Spinelli Tenuta Iuzzolini", "price": 18}
+      ]
+    },
+    {
+      "category": "Altro",
+      "items": [
+        {"name": "Dolci", "price": 4},
+        {"name": "Digestivo della casa", "price": 3},
+        {"name": "Coperto", "price": 2}
+      ]
+    }
+  ],
+  "media": {
+    "hero": [
+      {
+        "path": "media/google/google_75e7cb41ca.jpg",
+        "source": "google",
+        "width": 1080,
+        "height": 1151,
+        "color": "#99907f",
+        "caption": null,
+        "tags": null,
+        "score": null
+      },
+      {
+        "path": "media/google/google_d31b66ca80.jpg",
+        "source": "google",
+        "width": 1080,
+        "height": 1080,
+        "color": "#ebecee",
+        "caption": null,
+        "tags": null,
+        "score": null
+      },
+      {
+        "path": "media/google/google_7fe2320383.jpg",
+        "source": "google",
+        "width": 1200,
+        "height": 1200,
+        "color": "#b5c3d0",
+        "caption": null,
+        "tags": null,
+        "score": null
+      },
+      {
+        "path": "media/google/google_f3f9508de0.jpg",
+        "source": "google",
+        "width": 1200,
+        "height": 980,
+        "color": "#d2ab67",
+        "caption": null,
+        "tags": null,
+        "score": null
+      }
+    ],
+    "exterior": [
+      {
+        "path": "media/google/google_3cbdf06064.jpg",
+        "source": "google",
+        "width": 1200,
+        "height": 900,
+        "color": "#d0c7bb",
+        "caption": null,
+        "tags": null,
+        "score": null
+      },
+      {
+        "path": "media/google/google_e15b86be6c.jpg",
+        "source": "google",
+        "width": 897,
+        "height": 864,
+        "color": "#495a6b",
+        "caption": null,
+        "tags": null,
+        "score": null
+      },
+      {
+        "path": "media/google/google_08fa694768.jpg",
+        "source": "google",
+        "width": 1200,
+        "height": 1600,
+        "color": "#7a3a1a",
+        "caption": null,
+        "tags": null,
+        "score": null
+      },
+      {
+        "path": "media/google/google_d8b416f9b0.jpg",
+        "source": "google",
+        "width": 1200,
+        "height": 900,
+        "color": "#262422",
+        "caption": null,
+        "tags": null,
+        "score": null
+      }
+    ],
+    "interior": [
+      {
+        "path": "media/google/google_2f313e1564.jpg",
+        "source": "google",
+        "width": 1200,
+        "height": 1600,
+        "color": "#efe4d5",
+        "caption": null,
+        "tags": null,
+        "score": null
+      },
+      {
+        "path": "media/google/google_fea624824a.jpg",
+        "source": "google",
+        "width": 1200,
+        "height": 1600,
+        "color": "#c2b298",
+        "caption": null,
+        "tags": null,
+        "score": null
+      }
+    ]
+  },
+  "palette": [
+    "#99907f",
+    "#ebecee",
+    "#b5c3d0",
+    "#d2ab67",
+    "#d0c7bb"
+  ],
+  "stats": {
+    "photos_total": 26,
+    "videos_total": 0,
+    "reviews_google": 141,
+    "reviews_ta": 0,
+    "ig_followers": 0,
+    "ig_posts": 0,
+    "sources_present": [
+      "google",
+      "client"
+    ]
+  },
+  "meta": {
+    "lead_id": 62,
+    "slug": "bassa-marea",
+    "vertical": "restaurant",
+    "status": "enriched"
+  }
+}
